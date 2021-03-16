@@ -70,7 +70,7 @@ public class EntradaBlogGFR {
 	
     /**
      * Devuelve el nombre del autor. Ya no se usa. Mejor ver getAutor.
-     * @return
+     * @return El autor.
      */
 	public String devuelveAutor(){
 		return this.autor;
